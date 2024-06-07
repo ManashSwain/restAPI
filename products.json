@@ -1,0 +1,44 @@
+[
+    {
+        "name" : "iphone",
+        "price" : 6897,
+        "company" : "apple",
+        "featured" : true
+    },
+    {
+        "name" : "ipad",
+        "price" : 6576,
+        "company" : "apple"
+    },
+    {
+        "name" : "iwatch",
+        "price" : 6492,
+        "company" : "apple"
+    },
+    {
+        "name" : "galaxys21",
+        "price" : 3464,
+        "company" : "samsung"
+    },
+    {
+        "name" : "samwatch",
+        "price" : 5782,
+        "company" : "samsung",
+        "featured" : true
+    },
+    {
+        "name" : "legion",
+        "price" : 6582,
+        "company" : "dell"
+    },
+    {
+        "name" : "note7",
+        "price" : 1262,
+        "company" : "mi"
+    },
+    {
+        "name" : "mitv",
+        "price" : 9832,
+        "company" : "mi"
+    }
+]
